@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Mightyiest
-**Multimedia Specialist | 3D Designer | Social Media Strategist**
+**Multimedia Artist | Illustrator | Code**
 
 > A forward-thinking creator bridging the gap between high-impact design and digital strategy. Specializing in immersive 3D environments, dynamic visual production, and multi-platform content architecture.
 
