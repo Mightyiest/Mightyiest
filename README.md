@@ -2,51 +2,76 @@
   <img src="https://github.com/user-attachments/assets/3f26c630-cb23-4f5b-9458-631d2a329403" width="100%" alt="Mightyiest" />
 </p>
 
-# 👋 Hi, I'm Mightyiest
-**Multimedia Artist | Illustrator | Code**
+<h1 align="center">Mightyiest</h1>
 
-> A forward-thinking creator bridging the gap between high-impact design and digital strategy. Specializing in immersive 3D environments, dynamic visual production, and multi-platform content architecture.
+<p align="center">
+  <sub>Multimedia Artist &nbsp;·&nbsp; Illustrator &nbsp;·&nbsp; Code</sub>
+</p>
+
+<p align="center">
+  <em>A forward-thinking creator bridging the gap between high-impact design and digital strategy.<br/>
+  Specializing in immersive 3D environments, dynamic visual production, and multi-platform content architecture.</em>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-| 3D & Design | Video & Illustration | AI & Digital Strategy |
-| :--- | :--- | :--- |
-| Blender • SketchUp | Premiere Pro • After Effects | AI Agentic Coding |
-| Adobe Photoshop | Clip Studio Paint | Gemini Antigravity Workflows |
-| Adobe Illustrator | Short-Form Video Production | Content Architecture & Ops |
+**⬡ 3D & Design**
+
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org)
+[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)](https://www.sketchup.com)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+
+**▶ Video & Illustration**
+
+[![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+[![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-212429?style=flat-square&logo=clipstudiopaint&logoColor=white)](https://www.clipstudio.net)
+
+**⚡ AI & Digital Strategy**
+
+[![Agentic Coding](https://img.shields.io/badge/AI_Agentic_Coding-000000?style=flat-square&logo=probot&logoColor=white)](#)
+[![Gemini Antigravity](https://img.shields.io/badge/Gemini_Antigravity-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white)](#)
+[![Content Ops](https://img.shields.io/badge/Content_Architecture_%26_Ops-121212?style=flat-square&logo=gitbook&logoColor=white)](#)
 
 ---
 
-### 🚀 Current Focus & Workflow
+### 🚀 Current Focus
 
-* 🤖 **AI Agentic Coding & Practices:** Architecting multi-agent developer workflows and automation pipelines using **Gemini Antigravity** to accelerate interactive asset generation and technical prototyping.
-* 🎨 **3D Asset & Scene Design:** Engineering optimized 3D assets, stylized environments, and high-fidelity glTF setups for real-time web integration.
-* 🎬 **Short-Form Content Engineering:** Creating high-retention, high-performance visual assets specifically tailored for Instagram Reels, TikTok, and YouTube Shorts.
-* 📈 **Multimedia Operations:** Developing comprehensive visual frameworks and automated distribution schedules that translate brand identity into scalable growth.
+| | Area | Description |
+|---|---|---|
+| 🤖 | **AI Agentic Coding** | Multi-agent developer workflows and automation pipelines via **Gemini Antigravity** |
+| 📦 | **3D Asset & Scene Design** | Optimized assets, stylized environments, and high-fidelity glTF for real-time web |
+| 📈 | **Multimedia Operations** | Visual frameworks and automated distribution that translate brand into scalable growth |
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity
 
 <p align="center">
-  <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mightyiest&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mightyiest" alt="GitHub Streak" /></a>
-  
+  <img src="https://streak-stats.demolab.com?user=mightyiest&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### ⚡ Connect With Me
+### ⚡ Connect
 
-* 💼 **Portfolio:** [DM Discord](https://discord.com)
-* 🔗 **LinkedIn:** [/in/Mightyiest](https://www.linkedin.com/in/mightyiest/)
+<p align="left">
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mightyiest/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
+
 <p align="center"><sub>Driven by aesthetics, optimized for impact. ✨</sub></p>
