@@ -37,7 +37,8 @@
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mightyiest&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mightyiest" alt="GitHub Streak" /></a>
+  
 </p>
 
 ---
