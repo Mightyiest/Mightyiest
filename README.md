@@ -28,12 +28,14 @@
 
 [![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
 [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-[![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-212429?style=flat-square&logo=clipstudiopaint&logoColor=white)](https://www.clipstudio.net)
+[![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-212429?style=flat-square&logo=paintbrush&logoColor=white)](https://www.clipstudio.net)
 
 **⚡ AI & Digital Strategy**
 
 [![Agentic Coding](https://img.shields.io/badge/AI_Agentic_Coding-000000?style=flat-square&logo=probot&logoColor=white)](#)
 [![Gemini Antigravity](https://img.shields.io/badge/Gemini_Antigravity-8E7CC3?style=flat-square&logo=googlegemini&logoColor=white)](#)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white)](#)
+[![Qwen Coder Studio](https://img.shields.io/badge/Qwen_Coder_Studio-605CEC?style=flat-square&logo=qwen&logoColor=white)](#)
 [![Content Ops](https://img.shields.io/badge/Content_Architecture_%26_Ops-121212?style=flat-square&logo=gitbook&logoColor=white)](#)
 
 ---
